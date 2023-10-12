@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background: url(https://docs.google.com/uc?id=1N8avwvUXAGR5aPSUhVbAT5bir4tY9ztm);
+    background-size: cover;
+}
+canvas{
+    border:2px rgb(13, 0, 255) ridge;
+
+    
+}
